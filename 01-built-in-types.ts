@@ -1,7 +1,7 @@
 let age: number = 25;
 let name: string = "Samuel Pardosi";
 let isActive: boolean = true;
-let notFound null = null;
+let notFound: null = null;
 let notDefined: undefined = undefined;
 let anything: any = "any value";
 anything = 42;
